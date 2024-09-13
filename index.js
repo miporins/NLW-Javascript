@@ -1,7 +1,7 @@
 const { select, input, checkbox } = require('@inquirer/prompts')
 const fs = require("fs").promises
 
-let mensagem = "Metas App"
+let mensagem = "Bem vindos ao Metas App!"
 
 let metas
 
